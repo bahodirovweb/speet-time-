@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0 ;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style-type: none;
+}
+.container{
+    max-width: 600px;
+    border: 1px solid rgb(11, 11, 11);
+    margin: 0 auto;
+    padding: 15px 0;
+}
+.title{
+    text-align: center;
+}
+.control{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 1%;
+}
+.inp{
+    text-align: center;
+    border: 1px solid rgb(5, 5, 5);
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 200px;
+}
+.imgs{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box1{
+    text-align: center;
+    width: 600px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.person{
+    width: 30px;
+    height: 30px;
+}
+.box2{
+    text-align: center;
+    width: 600px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.bycycle{
+    width: 30px;
+    height: 30px;
+}
+.box3{
+    text-align: center;
+    width: 600px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.car{
+    width: 30px;
+    height: 30px;
+}
+.box4{
+    text-align: center;
+    width: 600px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.plane{
+    width: 30px;
+    height: 30px;
+}
